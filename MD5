@@ -1,6 +1,6 @@
-cc881e15dde8d94f86edb3140c1b112a *DESCRIPTION
-9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
-95bd1fcd03c48c5d2a408c1b672ef2a8 *R/ThreeG.R
+dc1032579003f0ee8573db2330af7717 *DESCRIPTION
+602ed84ed0f27773dfeb6501ea14baa5 *NAMESPACE
+153b03edf8fb206ebbcfd0bf72b4b3f4 *R/ThreeG.R
 6e3c843cb7421f2dcb5b8e3e63577208 *R/ThreeGLL.R
-6b65b0bd69e9cf5437c30e0e15661c9d *man/ThreeG.Rd
-7a0c8d5c7ee3016eab8b491ae1fdc67f *man/ThreeGroups-package.Rd
+f7952bcba11984d6c9ddede5cb5cf738 *man/ThreeG.Rd
+c30f25e48d620805f2e4d82303bcdc7a *man/ThreeGroups-package.Rd

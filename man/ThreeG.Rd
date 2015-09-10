@@ -1,7 +1,7 @@
 \name{ThreeG}
 \alias{ThreeG}
-\title{ML Estimator for Baseline-Placebo-Treatment (Three-group) designs}
-\description{This function implements the Maximum Likelihood estimator for three-group designs proposed by Gerber, Green, Kaplan, and Kern (2010).}
+\title{ML Estimator for Baseline-Placebo-Treatment (Three-Group) Experiments}
+\description{This package implements the Maximum Likelihood estimator for baseline, placebo, and treatment groups (three-group) experiments with non-compliance proposed by Gerber, Green, Kaplan, and Kern (2010).}
 \usage{
 ThreeG(data, starting = NULL)
 }
@@ -41,10 +41,10 @@ Please contact the maintainer of this package with questions related to this pac
 }
 
 
-\references{Alan Gerber, Donald Green, Edward H. Kaplan, and Holger L. Kern. 2010. ``Baseline, placebo, and treatment: Efficient estimation for three-group experiments.'' \emph{Political Analysis}.}
+\references{Alan S. Gerber, Donald P. Green, Edward H. Kaplan, and Holger L. Kern. 2010. ``Baseline, placebo, and treatment: Efficient estimation for three-group experiments.'' \emph{Political Analysis} 18 (3): 297-315.}
 
 
-\author{Holger L. Kern, \email{holger.kern@yale.edu}, \url{http://pantheon.yale.edu/~hlk8/}}
+\author{Holger L. Kern, \email{hkern@fsu.edu}, \url{http://www.holgerkern.com}}
 
 
 \examples{
